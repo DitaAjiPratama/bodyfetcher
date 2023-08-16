@@ -1,6 +1,8 @@
 # BodyFetcher
 Python Script for fetch a body request.
 
+It need cherrypy and cherrypy_cors python library.
+
 ## Usage
 
 Let say you want to create a product list API. The usage will looks like this:
