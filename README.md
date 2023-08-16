@@ -1,7 +1,7 @@
 # BodyFetcher
 Python Script for fetch a body request.
 
-It need cherrypy and cherrypy_cors python library.
+It need `cherrypy` and `cherrypy_cors` python library.
 
 ## Usage
 
